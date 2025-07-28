@@ -7,8 +7,8 @@
 
   <br>
   
-  <!-- CARDUL DE STREAK - VERSIUNEA STABILĂ ȘI CORECTĂ -->
-  <img title="GitHub Streak" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=oanacristina21&theme=tokyonight&hide_border=true" />
+  <!-- CARDUL DE STREAK CU TRUCUL "CACHE BUSTING" PENTRU A FORȚA ACTUALIZAREA -->
+  <img title="GitHub Streak" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=oanacristina21&theme=tokyonight&hide_border=true&cache_bust=1" />
   
   <br>
 
