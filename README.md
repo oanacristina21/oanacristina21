@@ -1,16 +1,28 @@
-## Hi there 👋
+<!-- Centrarea tuturor elementelor -->
+<div align="center">
 
-<!--
-**oanacristina21/oanacristina21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- Cardurile de statistici și limbaje -->
+  <img src="https://github-readme-stats.vercel.app/api?username=oanacristina21&show_icons=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oanacristina21&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
 
-Here are some ideas to get you started:
+  <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!-- Cardul de Streak (consecvență) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oanacristina21&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+  <br>
+
+  <!-- Trofeele GitHub -->
+  <img src="https://github-profile-trophy.vercel.app/?username=oanacristina21&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies" />
+
+  <!-- Animația Snake -->
+  <img src="https://github.com/oanacristina21/oanacristina21/blob/output/github-snake-dark.svg" alt="Snake animation" />
+
+  <!-- Badge-ul de LinkedIn -->
+  <p>
+    <a href="https://www.linkedin.com/in/cristina-mihail-29abb1263/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+  </p>
+
+</div>
