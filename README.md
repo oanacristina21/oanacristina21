@@ -52,10 +52,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oanacristina21&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
   <br>
   <img src="https://github-profile-trophy.vercel.app/?username=oanacristina21&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies" />
-    <!-- CARDUL DE STREAK (VERSIUNEA CARE ACUM FUNCȚIONEAZĂ) -->
-  <img title="GitHub Streak" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=oanacristina21&theme=github-dark-dimmed&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-
-  <br>
   <img src="https://github.com/oanacristina21/oanacristina21/blob/output/github-snake-dark.svg" alt="Snake animation" />
 
 </div>
