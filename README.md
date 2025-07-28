@@ -46,11 +46,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oanacristina21&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
   
   <br>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oanacristina21&theme=dark&hide_border=true" />
-  <br>
-
-
+  
   <!-- Trofeele GitHub -->
   <img src="https://github-profile-trophy.vercel.app/?username=oanacristina21&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies" />
 
