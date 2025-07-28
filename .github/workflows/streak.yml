@@ -1,0 +1,31 @@
+name: Generate GitHub Streak
+
+on:
+  schedule:
+    - cron: "0 1 * * *"  # zilnic la ora 01:00
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clonare repo
+        uses: actions/checkout@v3
+
+      - name: Instalează dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y wget
+
+      - name: Generează streak SVG
+        run: |
+          mkdir -p dist
+          wget "https://streak-stats.demolab.com?user=oanacristina21&theme=dark&hide_border=true" -O dist/github-streak.svg
+
+      - name: Publică SVG-ul în branchul output
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
