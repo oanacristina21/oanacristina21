@@ -6,6 +6,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oanacristina21&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
 
   <br>
+  
+  <!-- CARDUL DE STREAK - VERSIUNEA STABILĂ ȘI CORECTĂ -->
+  <img title="GitHub Streak" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=oanacristina21&theme=tokyonight&hide_border=true" />
+  
+  <br>
 
   <!-- Trofeele GitHub (funcționează perfect) -->
   <img src="https://github-profile-trophy.vercel.app/?username=oanacristina21&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies" />
