@@ -48,6 +48,7 @@
   <br>
 
   <img src="https://streak-stats.demolab.com?user=oanacristina21&theme=dark&hide_border=true" />
+  <br>
 
 
   <!-- Trofeele GitHub -->
