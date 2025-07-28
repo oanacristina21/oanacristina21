@@ -27,7 +27,7 @@
 
 ---
 
-### 📊 Statistics
+### 📊 My statistics
 
 <div align="center">
 
@@ -47,7 +47,7 @@
 
 ---
 
-### 📫 Contactează-mă
+### 📫 Let's connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/cristina-mihail-29abb1263/" target="_blank">
