@@ -7,13 +7,13 @@
   
 ### ✨ A dedicated and analytical Computer Science professional ✨
 
-<p>În prezent îmi perfecționez expertiza printr-un program de masterat în Cyber Security și Machine Learning. Transform problemele complexe în soluții software elegante și eficiente.</p>
+<p>I am currently honing my expertise through a master's program in Cyber Security and Machine Learning. I transform complex problems into elegant and efficient software solutions.</p>
 
 </div>
 
 ---
 
-### 🛠️ Tehnologii și Unelte
+### 🛠️ Tehnologies and Tools
 
 <p align="center">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
@@ -27,7 +27,7 @@
 
 ---
 
-### 📊 Statisticile Mele
+### 📊 Statistics
 
 <div align="center">
 
