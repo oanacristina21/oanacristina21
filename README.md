@@ -47,7 +47,7 @@
   
   <br>
 
-  <img src="https://streak-stats.demolab.com?user=oanacristina21&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oanacristina21&theme=dark&hide_border=true" />
   <br>
 
 
