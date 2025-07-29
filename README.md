@@ -47,11 +47,23 @@
 
 <div align="center">
 
-  <!-- Cardurile de statistici, trofeele și animația Snake -->
+  <!-- Rândul 1: Stats & Streak -->
   <img src="https://github-readme-stats.vercel.app/api?username=oanacristina21&show_icons=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oanacristina21&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=oanacristina21&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
+  
   <br>
+
+  <!-- Rândul 2: Top Langs -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oanacristina21&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+  
+  <br>
+
+  <!-- Rândul 3: Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=oanacristina21&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies" />
+  
+  <br>
+
+  <!-- Rândul 4: Snake Animation -->
   <img src="https://github.com/oanacristina21/oanacristina21/blob/output/github-snake-dark.svg" alt="Snake animation" />
 
 </div>
